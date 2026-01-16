@@ -543,6 +543,7 @@ header.scrolled {
     width: 45%;
     height: 100%;
     /* background: linear-gradient(45deg, var(--primary-color), var(--secondary-color)); */
+    display: hiden;
     background: linear-gradient(45deg, #8B5CF6, #EC4899);
     clip-path: polygon(100% 0, 100% 100%, 0 100%);
     z-index: 1;
